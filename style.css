@@ -1,0 +1,135 @@
+html {
+	font-family: 'Times New Roman', sans-serif;
+
+}
+
+body {
+	background: blue;
+}
+
+div {
+	margin-bottom: 80px;
+}
+
+/* Пункт 2 */
+
+.first-h2 {
+	color: white;
+	background-color: red;
+	width: 100px;
+}
+
+.first-p {
+	background-color: navy;
+	padding-bottom: 30px;
+	width: 300px;
+}
+
+hr {
+	width: 350px;
+	color: gray;
+	margin: 0;
+}
+
+.second-p {
+	background-color: yellow;
+	padding-bottom: 20px;
+	width: 300px;
+}
+
+/* Пункт 3 */
+
+.one {
+	background-color: red;
+	width: 50px;
+	height: 40px;
+}
+
+.two {
+	background-color: orange;
+	width: 100px;
+	height: 40px;
+}
+
+.three {
+	background-color: navy;
+	width: 150px;
+	height: 40px;
+}
+
+/* Пункт 4 */
+
+.joy {
+	font-size: 50px;
+	background: #FF733A;
+	width: 250px;
+	padding: 10px 30px 30px 20px;
+}
+
+/* Пункт 5 */
+
+.brown-thing {
+	padding: 0px 0px 20px 5px; 
+	background: #D6D7BE;
+	width: 500px;
+}
+
+.brown-thing h1 {
+	color: #532601;
+	font-family: 'Arial';
+	line-height: 50px;
+}
+
+.brown-thing h2 {
+	color: black;
+}
+
+.brown-thing h3 {
+	color: #875327;
+}
+
+.brown-thing a {
+	color: #285501;
+}
+
+/* Пункт 6 */
+
+.math-one {
+	width: 420px;
+	background: white;
+	padding: 0px 0px 0px 5px; 
+	border: 3px dashed black;
+}
+
+.formula-one {
+	font-size: 20px;
+	font-stretch: expanded;
+}
+
+/* Пункт 7 */
+
+.math-two {
+	width: 420px;
+	background: white;
+	border: 3px dashed black;
+	padding: 0px 0px 0px 5px; 
+}
+
+.formula-two {
+	font-size: 25px;
+	font-stretch: expanded;
+	font-style: italic;
+}
+
+
+.formula-two sub {
+	font-size: 15px;
+	font-style: normal;
+	color: blue;
+}
+
+.formula-two sup {
+	font-size: 15px;
+	font-style: normal;
+	color: red;
+}
